@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/helloween/static/css/main.3bac404e.chunk.css",
+    "main.js": "/helloween/static/js/main.1ee6c2ae.chunk.js",
+    "main.js.map": "/helloween/static/js/main.1ee6c2ae.chunk.js.map",
+    "runtime-main.js": "/helloween/static/js/runtime-main.182b5b80.js",
+    "runtime-main.js.map": "/helloween/static/js/runtime-main.182b5b80.js.map",
+    "static/js/2.6a7beca3.chunk.js": "/helloween/static/js/2.6a7beca3.chunk.js",
+    "static/js/2.6a7beca3.chunk.js.map": "/helloween/static/js/2.6a7beca3.chunk.js.map",
+    "index.html": "/helloween/index.html",
+    "precache-manifest.c745493e33614bacc0aa0b5d788088c2.js": "/helloween/precache-manifest.c745493e33614bacc0aa0b5d788088c2.js",
+    "service-worker.js": "/helloween/service-worker.js",
+    "static/css/main.3bac404e.chunk.css.map": "/helloween/static/css/main.3bac404e.chunk.css.map",
+    "static/js/2.6a7beca3.chunk.js.LICENSE.txt": "/helloween/static/js/2.6a7beca3.chunk.js.LICENSE.txt",
+    "static/media/fortune_teller.jpg": "/helloween/static/media/fortune_teller.1a35d010.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.182b5b80.js",
+    "static/js/2.6a7beca3.chunk.js",
+    "static/css/main.3bac404e.chunk.css",
+    "static/js/main.1ee6c2ae.chunk.js"
+  ]
+}

@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "77142c44f30dc20ec50ac214b4aa8542",
+    "revision": "47d6d127f9288bf61005df640717018f",
     "url": "/helloween/index.html"
   },
   {
-    "revision": "1631c16d4aebacdb64bc",
+    "revision": "96b47da7b13015740409",
     "url": "/helloween/static/css/main.3bac404e.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/helloween/static/js/2.6a7beca3.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "1631c16d4aebacdb64bc",
-    "url": "/helloween/static/js/main.1ee6c2ae.chunk.js"
+    "revision": "96b47da7b13015740409",
+    "url": "/helloween/static/js/main.81352610.chunk.js"
   },
   {
     "revision": "5b5b27bb6c50d841c429",

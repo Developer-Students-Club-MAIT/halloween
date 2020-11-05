@@ -6,6 +6,7 @@ self.addEventListener("install", (event) => {
 
 self.addEventListener("activate", (event) => {
   console.log("activating");
+  return self.clients.cliam();
 });
 
 self.addEventListener("fetch", (event) => {

@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/static/css/main.3bac404e.chunk.css",
-    "main.js": "/static/js/main.267f92d5.chunk.js",
-    "main.js.map": "/static/js/main.267f92d5.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.b5635081.js",
-    "runtime-main.js.map": "/static/js/runtime-main.b5635081.js.map",
-    "static/js/2.1763ecde.chunk.js": "/static/js/2.1763ecde.chunk.js",
-    "static/js/2.1763ecde.chunk.js.map": "/static/js/2.1763ecde.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.928224f10c5c9951808aba54179acac9.js": "/precache-manifest.928224f10c5c9951808aba54179acac9.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.3bac404e.chunk.css.map": "/static/css/main.3bac404e.chunk.css.map",
-    "static/js/2.1763ecde.chunk.js.LICENSE.txt": "/static/js/2.1763ecde.chunk.js.LICENSE.txt",
-    "static/media/fortune_teller.jpg": "/static/media/fortune_teller.1a35d010.jpg",
-    "static/media/horror.mp3": "/static/media/horror.f0f95b81.mp3"
+    "main.css": "/helloween/static/css/main.3bac404e.chunk.css",
+    "main.js": "/helloween/static/js/main.cffb98e4.chunk.js",
+    "main.js.map": "/helloween/static/js/main.cffb98e4.chunk.js.map",
+    "runtime-main.js": "/helloween/static/js/runtime-main.ff55b0c4.js",
+    "runtime-main.js.map": "/helloween/static/js/runtime-main.ff55b0c4.js.map",
+    "static/js/2.1763ecde.chunk.js": "/helloween/static/js/2.1763ecde.chunk.js",
+    "static/js/2.1763ecde.chunk.js.map": "/helloween/static/js/2.1763ecde.chunk.js.map",
+    "index.html": "/helloween/index.html",
+    "precache-manifest.4f5dcbbba12471a4894749a9308b3b4b.js": "/helloween/precache-manifest.4f5dcbbba12471a4894749a9308b3b4b.js",
+    "service-worker.js": "/helloween/service-worker.js",
+    "static/css/main.3bac404e.chunk.css.map": "/helloween/static/css/main.3bac404e.chunk.css.map",
+    "static/js/2.1763ecde.chunk.js.LICENSE.txt": "/helloween/static/js/2.1763ecde.chunk.js.LICENSE.txt",
+    "static/media/fortune_teller.jpg": "/helloween/static/media/fortune_teller.1a35d010.jpg",
+    "static/media/horror.mp3": "/helloween/static/media/horror.f0f95b81.mp3"
   },
   "entrypoints": [
-    "static/js/runtime-main.b5635081.js",
+    "static/js/runtime-main.ff55b0c4.js",
     "static/js/2.1763ecde.chunk.js",
     "static/css/main.3bac404e.chunk.css",
-    "static/js/main.267f92d5.chunk.js"
+    "static/js/main.cffb98e4.chunk.js"
   ]
 }

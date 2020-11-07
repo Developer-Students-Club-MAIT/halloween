@@ -150,7 +150,10 @@ export default function App() {
             <div className="text-center">
               <h1 className="title">Fortune Teller</h1>
               <div>
+              <a target="_blank" href="https://dscmait.xyz/fortune-teller-intro/">
+
                 <button style={{backgroundColor:"#DB4437"}}>Explore Now</button>
+</a>
               </div>
             </div>
           </HtmlContent>
@@ -166,7 +169,9 @@ export default function App() {
             <div className="text-center">
               <h1 className="title">Movie Recommendations</h1>
               <div>
+                <a target="_blank" href="https://horror-movie-recommendation.herokuapp.com/">
                 <button style={{backgroundColor:"#0F9D58"}}>Explore Now</button>
+                </a>
               </div>
             </div>
           </HtmlContent>
@@ -181,7 +186,10 @@ export default function App() {
             <div className="text-center">
               <h1 className="title">Horror Plot Generator</h1>
               <div>
+              <a target="_blank" href="https://dscmait.xyz/horror-plot-intro/">
+
                 <button style={{backgroundColor:"#000"}}>Explore Now</button>
+                </a>
               </div>
             </div>
           </HtmlContent>

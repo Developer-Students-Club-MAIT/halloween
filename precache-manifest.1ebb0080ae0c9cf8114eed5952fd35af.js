@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "47a35891cabd0c0cc7a7ca4ac21f3e63",
+    "revision": "301d7bf2c2dbc87afe35ec78f39c32cd",
     "url": "/halloween/index.html"
   },
   {
-    "revision": "f3fb65c50a7d13a8806a",
+    "revision": "b67349a6652e6cfb3b39",
     "url": "/halloween/static/css/main.3bac404e.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/halloween/static/js/2.1763ecde.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "f3fb65c50a7d13a8806a",
-    "url": "/halloween/static/js/main.8be5a208.chunk.js"
+    "revision": "b67349a6652e6cfb3b39",
+    "url": "/halloween/static/js/main.c667b380.chunk.js"
   },
   {
     "revision": "68ce0293d872405af5d3",

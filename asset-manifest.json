@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/halloween/static/css/main.3bac404e.chunk.css",
-    "main.js": "/halloween/static/js/main.8be5a208.chunk.js",
-    "main.js.map": "/halloween/static/js/main.8be5a208.chunk.js.map",
+    "main.js": "/halloween/static/js/main.c667b380.chunk.js",
+    "main.js.map": "/halloween/static/js/main.c667b380.chunk.js.map",
     "runtime-main.js": "/halloween/static/js/runtime-main.3595fff2.js",
     "runtime-main.js.map": "/halloween/static/js/runtime-main.3595fff2.js.map",
     "static/js/2.1763ecde.chunk.js": "/halloween/static/js/2.1763ecde.chunk.js",
     "static/js/2.1763ecde.chunk.js.map": "/halloween/static/js/2.1763ecde.chunk.js.map",
     "index.html": "/halloween/index.html",
-    "precache-manifest.423644a190f1deda36e14cd0fdb9a123.js": "/halloween/precache-manifest.423644a190f1deda36e14cd0fdb9a123.js",
+    "precache-manifest.1ebb0080ae0c9cf8114eed5952fd35af.js": "/halloween/precache-manifest.1ebb0080ae0c9cf8114eed5952fd35af.js",
     "service-worker.js": "/halloween/service-worker.js",
     "static/css/main.3bac404e.chunk.css.map": "/halloween/static/css/main.3bac404e.chunk.css.map",
     "static/js/2.1763ecde.chunk.js.LICENSE.txt": "/halloween/static/js/2.1763ecde.chunk.js.LICENSE.txt",
@@ -19,6 +19,6 @@
     "static/js/runtime-main.3595fff2.js",
     "static/js/2.1763ecde.chunk.js",
     "static/css/main.3bac404e.chunk.css",
-    "static/js/main.8be5a208.chunk.js"
+    "static/js/main.c667b380.chunk.js"
   ]
 }
